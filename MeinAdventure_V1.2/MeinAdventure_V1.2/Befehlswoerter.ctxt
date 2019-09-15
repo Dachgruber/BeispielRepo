@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Befehlswoerter
+comment0.text=\r\n\ Diese\ Klasse\ h\u00E4lt\ eine\ Aufz\u00E4hlung\ aller\ Befehlsw\u00F6rter,\ die\ dem\r\n\ Spiel\ bekannt\ sind.\ Mit\ ihrer\ Hilfe\ werden\ eingetippte\ Befehle\r\n\ erkannt.\r\n\r\n\ Gruppe\:\ Max\ Mustermann,\ Mini\ Musterfrau,\ Willi\ Wichtig\r\n\ Verantwortlich\:\ Mini\ Musterfrau\r\n\ Version\:\ 1.x\r\n\ Datum\:\ xx.yy.zzzz\r\n
+comment1.params=
+comment1.target=Befehlswoerter()
+comment1.text=\r\n\ Konstruktor\ -\ initialisiere\ die\ Befehlsw\u00F6rter.\r\n
+comment2.params=eingabe
+comment2.target=boolean\ istBefehl(java.lang.String)
+comment2.text=\r\n\ Pr\u00FCfe,\ ob\ eine\ gegebene\ Zeichenkette\ ein\ g\u00FCltiger\r\n\ Befehl\ ist.\r\n\ Liefere\ 'true',\ wenn\ das\ der\ Fall\ ist,\ 'false'\ sonst.\r\n
+comment3.params=
+comment3.target=void\ alleAusgeben()
+comment3.text=\r\n\ Gib\ alle\ g\u00FCltigen\ Befehlsw\u00F6rter\ auf\ die\ Konsole\ aus.\r\n
+numComments=4
