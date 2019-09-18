@@ -8,8 +8,6 @@
  * Befehle werden von Benutzern dieser Klasse auf Gültigkeit
  * überprüft. Wenn ein Spieler einen ungültigen Befehl eingegeben
  * hat (ein unbekanntes Befehlswort), dann ist das Befehlswort <null>.
- 
- Müll
  *
  * Wenn der Befehl nur aus einem Wort bestand, dann ist das
  * zweite Wort <null>.
