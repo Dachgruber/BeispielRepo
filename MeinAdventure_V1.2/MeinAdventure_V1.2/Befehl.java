@@ -1,13 +1,15 @@
 /**
- * Objekte dieser Klasse halten Informationen über Befehle,
+ * Objekte dieser Klasse halten Informationen Ã¼ber Befehle,
  * die der Benutzer eingegeben hat. Ein Befehl besteht momentan
  * aus zwei Zeichenketten: einem Befehlswort und einem zweiten
  * Wort. Beim Befehl "nimm karte" beispielsweise sind die beiden
  * Zeichenketten "nimm" und "karte".
  * 
- * Befehle werden von Benutzern dieser Klasse auf Gültigkeit
- * überprüft. Wenn ein Spieler einen ungültigen Befehl eingegeben
+ * Befehle werden von Benutzern dieser Klasse auf GÃ¼ltigkeit
+ * Ã¼berprÃ¼ft. Wenn ein Spieler einen ungÃ¼ltigen Befehl eingegeben
  * hat (ein unbekanntes Befehlswort), dann ist das Befehlswort <null>.
+ 
+ MÃ¼ll
  *
  * Wenn der Befehl nur aus einem Wort bestand, dann ist das
  * zweite Wort <null>.
@@ -24,8 +26,8 @@ class Befehl
     private String zweitesWort;
 
     /**
-     * Erzeuge ein Befehlsobjekt. Beide Wörter müssen angegeben werden,
-     * aber jedes oder beide dürfen 'null' sein. Das Befehlswort sollte
+     * Erzeuge ein Befehlsobjekt. Beide WÃ¶rter mÃ¼ssen angegeben werden,
+     * aber jedes oder beide dÃ¼rfen 'null' sein. Das Befehlswort sollte
      * 'null' sein, wenn dieser Befehl als nicht vom Spiel erkannt
      * gekennzeichnet werden soll.
      */
